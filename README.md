@@ -41,7 +41,7 @@ Tenho 29 anos, sou desenvolvedor web desde 2020 e acredito que podemos transform
 
 :notebook_with_decorative_cover: Estou estudando Go, Kubernets e Kafka
 
-:mailbox: Crie um <a href="https://hugobuenodev.com/blog" target="_blank" >Blog</a> a pouco tempo e quero compartilhar conteúdos para Devs lá!
+:mailbox: Criei um <a href="https://hugobuenodev.com/blog" target="_blank" >Blog</a> a pouco tempo e quero compartilhar conteúdos para Devs lá!
 
 :video_game: Gosto de games (por mais que não seja muito bom haha), violão e aprender coisas novas 
 
